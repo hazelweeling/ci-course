@@ -1,3 +1,5 @@
+[![BCH compliance](https://bettercodehub.com/edge/badge/hazelweeling/ci-course?branch=main)](https://bettercodehub.com/)
+
 [![codecov](https://codecov.io/gh/hazelweeling/ci-course/branch/main/graph/badge.svg?token=L1O4YSTDTW)](https://codecov.io/gh/hazelweeling/ci-course)
 
 [![CI](https://github.com/hazelweeling/ci-course/actions/workflows/test-ci.yml/badge.svg)](https://github.com/hazelweeling/ci-course/actions/workflows/test-ci.yml)
