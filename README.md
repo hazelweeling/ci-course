@@ -1,3 +1,6 @@
+[![CI](https://github.com/hazelweeling/ci-course/actions/workflows/test-ci.yml/badge.svg)](https://github.com/hazelweeling/ci-course/actions/workflows/test-ci.yml)
+
+
 # OxRSE Continuous Integration course
 
 This project contains a small Python project. We are going to use free cloud services to automate:
