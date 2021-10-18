@@ -13,7 +13,7 @@ Welcome to CI Course's documentation!
    quickstart
 
 
-Hello World
+Hello World!
 
 
 
