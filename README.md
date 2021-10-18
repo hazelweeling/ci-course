@@ -1,3 +1,5 @@
+[![Documentation Status](https://readthedocs.org/projects/ci-course-hazelweeling/badge/?version=latest)](https://ci-course-hazelweeling.readthedocs.io/en/latest/?badge=latest)
+
 [![BCH compliance](https://bettercodehub.com/edge/badge/hazelweeling/ci-course?branch=main)](https://bettercodehub.com/)
 
 [![codecov](https://codecov.io/gh/hazelweeling/ci-course/branch/main/graph/badge.svg?token=L1O4YSTDTW)](https://codecov.io/gh/hazelweeling/ci-course)
